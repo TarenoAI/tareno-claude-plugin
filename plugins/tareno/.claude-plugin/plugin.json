@@ -15,5 +15,7 @@
     "scheduling",
     "publishing"
   ],
-  "repository": "https://github.com/TarenoAI/tareno-claude-plugin"
+  "repository": "https://github.com/TarenoAI/tareno-claude-plugin",
+  "icon": ".claude-plugin/icon.jpg",
+  "privacyPolicyUrl": "https://tareno.co/legal/privacy"
 }
