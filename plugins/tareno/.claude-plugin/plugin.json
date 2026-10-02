@@ -1,0 +1,19 @@
+{
+  "name": "tareno",
+  "description": "Plan, publish, and analyze social content with Tareno.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Tareno",
+    "email": "support@tareno.co"
+  },
+  "homepage": "https://tareno.co/docs/mcp",
+  "license": "Proprietary",
+  "keywords": [
+    "social-media",
+    "content-planning",
+    "analytics",
+    "scheduling",
+    "publishing"
+  ],
+  "repository": "https://github.com/TarenoAI/tareno-claude-plugin"
+}
